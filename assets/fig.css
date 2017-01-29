@@ -28,6 +28,17 @@
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.figplaint-maxh550 img, .figplaint-maxh450 img, .figplaint-maxh350 img {
+  max-height: 550px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.figplaint-maxh450 img {
+  max-height: 450px;
+}
+.figplaint-maxh350 img {
+  max-height: 346px;
+}
 
 .figplainw img {
   width: 100%;
@@ -61,4 +72,12 @@
   max-height: 600px;
 }
 .figstyle1h {}
+
+.figround1 img {
+  -webkit-box-shadow: 0px 0px 55px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 55px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 55px 0px rgba(0,0,0,0.75);  
+  width: 100%;
+  border-radius: 50%;
+}
 

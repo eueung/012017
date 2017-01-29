@@ -1,0 +1,385 @@
+$$$ cover-05-gen-fa %split 40 % titleprop .fsize95[LTKA Bot .yellow[Demo]] % authorprop [Dr.-Ing. Eueung Mulyana](https://github.com/eueung) % linkprop https://eueung.github.io/012017/demo-ltka % otherprop ET-3010 | [Attribution-ShareAlike CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) % bkgimg bkgs/batu.jpg % logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]]
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/277745489.jpg)
+]
+.fonth5[**Ghufran Musta'an**]<br/>
+.blue[**18113016**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/317593735.jpg)
+]
+.fonth5[**Dharma Favitri Hariyanto**]<br/>
+.blue[**18113028**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/224919051.jpg)
+]
+.fonth5[**Rekyan Puspita Pravitasari**]<br/>
+.blue[**18113029**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/264786844.jpg)
+]
+.fonth5[**Sugih Gumilar**]<br/>
+.blue[**18113035**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/262993921.jpg)
+]
+.fonth5[**Ahmad Fauzi Iskandar**]<br/>
+.blue[**18113041**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/316296257.jpg)
+]
+.fonth5[**Astrid Gloria Pepita**]<br/>
+.blue[**18114001**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/325149220.jpg)
+]
+.fonth5[**Martin Rinaldy H**]<br/>
+.blue[**18114002**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/263438786.jpg)
+]
+.fonth5[**Andrew Filbert Dary**]<br/>
+.blue[**18114003**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/134848009.jpg)
+]
+.fonth5[**Ali Rhomadoni**]<br/>
+.blue[**18114004**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/301040621.jpg)
+]
+.fonth5[**Danang Ainal Hakim**]<br/>
+.blue[**18114005**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/313722399.jpg)
+]
+.fonth5[**Amira Maulina**]<br/>
+.blue[**18114006**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/101186514.jpg)
+]
+.fonth5[**Umar Nawawi**]<br/>
+.blue[**18114007**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/309891927.jpg)
+]
+.fonth5[**Siti Maria Ulfa**]<br/>
+.blue[**18114008**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/255288703.jpg)
+]
+.fonth5[**Keinda Dwi Adilia**]<br/>
+.blue[**18114009**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/237910563.jpg)
+]
+.fonth5[**Riko Bobot Harsongko**]<br/>
+.blue[**18114010**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/246776881.jpg)
+]
+.fonth5[**Kurniawan Cahyo Hardiyanto**]<br/>
+.blue[**18114011**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/default.jpg)
+]
+.fonth5[**Imam Habib Al Fikri**]<br/>
+.blue[**18114012**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/286307416.jpg)
+]
+.fonth5[**Mutiara Muslim**]<br/>
+.blue[**18114013**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/314493455.jpg)
+]
+.fonth5[**Dian Handayani**]<br/>
+.blue[**18114014**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/310137814.jpg)
+]
+.fonth5[**Qonita Salimah**]<br/>
+.blue[**18114015**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/308752809.jpg)
+]
+.fonth5[**Andina Zahra Nabilla**]<br/>
+.blue[**18114016**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/233477671.jpg)
+]
+.fonth5[**Resti Lestari**]<br/>
+.blue[**18114017**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/321238751.jpg)
+]
+.fonth5[**Alfian Azizi**]<br/>
+.blue[**18114018**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/326407812.jpg)
+]
+.fonth5[**Radifan Cahya P**]<br/>
+.blue[**18114019**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/303711352.jpg)
+]
+.fonth5[**Ainani Paramita A**]<br/>
+.blue[**18114020**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/320460029.jpg)
+]
+.fonth5[**Petra Febrianto Liasta**]<br/>
+.blue[**18114021**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/default.jpg)
+]
+.fonth5[**Eka Aditya Chandra K**]<br/>
+.blue[**18114022**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/322255734.jpg)
+]
+.fonth5[**Maharaja Arizona**]<br/>
+.blue[**18114023**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/278935790.jpg)
+]
+.fonth5[**Fandi Rusdiantara**]<br/>
+.blue[**18114024**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/default.jpg)
+]
+.fonth5[**Silvya Aulia Hidayatul F**]<br/>
+.blue[**18114025**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
+.figround1[
+![](images/323614449.jpg)
+]
+.fonth5[**Moh Bimo Adha**]<br/>
+.blue[**18114027**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-3
+---
+$$$ part-1 %split 60 %color1 t1 %align1 center
+.fonth4[
+Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+]
+$$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/326560177.jpg)
+]
+.fonth5[**Ghazy Mahendra**]<br/>
+.blue[**18114028**]
+$$$ part-3
