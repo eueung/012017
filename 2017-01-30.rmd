@@ -1,4 +1,4 @@
-$$$ cover-05-gen-fa %split 40 % titleprop .fsize95[LTKA Bot .yellow[Demo]] % authorprop [Dr.-Ing. Eueung Mulyana](https://github.com/eueung) % linkprop https://eueung.github.io/012017/demo-ltka % otherprop ET-3010 | [Attribution-ShareAlike CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) % bkgimg bkgs/batu.jpg % logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]]
+$$$ cover-05-gen-fa %split 40 % titleprop .fsize95[LTKA Bot .yellow[Demo]] % authorprop [Dr.-Ing. Eueung Mulyana](https://github.com/eueung) % linkprop https://eueung.github.io/ET3010 % otherprop ET-3010 | [Attribution-ShareAlike CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) % bkgimg bkgs/batu.jpg % logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]]
 ---
 $$$ part-1 %split 40 %color1 t2 %align1 center
 .figround1[
@@ -8,13 +8,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18113016**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -32,13 +32,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18113029**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -56,13 +56,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18113041**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -80,13 +80,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114002**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -104,13 +104,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114004**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -128,13 +128,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114006**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -152,13 +152,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114008**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -176,13 +176,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114010**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -200,13 +200,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114012**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -224,13 +224,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114014**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -248,13 +248,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114016**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -272,13 +272,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114018**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -296,13 +296,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114020**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -320,13 +320,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114022**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -344,13 +344,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114024**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -368,13 +368,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114027**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Colenak Cireng Bala-Bala dan Gehu plus Kupat Tahu Asli Singaparna
+note
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
