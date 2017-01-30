@@ -128,7 +128,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114006**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-#travel #tech
+#adventure #travel #tech
 ]
 $$$ part-3
 ---
@@ -200,7 +200,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114012**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-Zizi :3
+Bismillah~
 ]
 $$$ part-3
 ---
@@ -326,7 +326,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Hati ini bukan Dufan yg bisa dimainin
+Apalah daya diriku yang cuma hafal mars Perindo
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
