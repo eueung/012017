@@ -45,7 +45,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+Seberat apapun pekerjaan itu akan terasa ringan jika tidak dikerjakan
 ]
 
 
@@ -64,7 +64,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+semangat
 ]
 
 
@@ -132,7 +132,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+done
 ]
 
 
@@ -181,7 +181,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+yihaa
 ]
 
 
@@ -200,7 +200,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+pagi teman teman
 ]
 
 
@@ -249,7 +249,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+setuju banget sih
 ]
 
 
@@ -268,7 +268,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+they see me rolling they hating
 ]
 
 
@@ -317,7 +317,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+begadang jangan begadang
 ]
 
 
@@ -336,7 +336,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+idk
 ]
 
 
@@ -385,7 +385,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+#adventure #travel #tech
 ]
 
 
@@ -404,7 +404,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+Lets Assume I'm Never Wrong!
 ]
 
 
@@ -453,7 +453,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+pagi
 ]
 
 
@@ -472,7 +472,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+Malu Tersesat, Bertanya di Jalan
 ]
 
 
@@ -521,7 +521,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+Show must go on
 ]
 
 
@@ -540,7 +540,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+jangan pake bhs jepang dong ... script nya blm support unicode
 ]
 
 
@@ -589,7 +589,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+Bismillah~
 ]
 
 
@@ -608,7 +608,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+assalamualaikum :)
 ]
 
 
@@ -676,7 +676,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+Selalu berusaha
 ]
 
 
@@ -725,7 +725,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+Allons-y!
 ]
 
 
@@ -744,7 +744,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+banyak belajar banyak lupa, sedikit belajar sedikit lupa, tidak belajar tidak lupa :(
 ]
 
 
@@ -793,7 +793,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+oke mam!
 ]
 
 
@@ -812,7 +812,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+unboxing nasi padang
 ]
 
 
@@ -861,7 +861,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+hello
 ]
 
 
@@ -880,7 +880,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+hello world
 ]
 
 
@@ -929,7 +929,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+YNWA
 ]
 
 
@@ -948,7 +948,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+Apalah daya diriku yang cuma hafal mars Perindo
 ]
 
 
@@ -997,7 +997,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+key of success adalah kunci kesuksesan
 ]
 
 
@@ -1016,7 +1016,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+:)
 ]
 
 
@@ -1050,10 +1050,10 @@ class: split-40 nopadding
 
 
 .figround1[
-![](images/323614449.jpg)
+![](images/default.jpg)
 ]
-.fonth5[**Moh Bimo Adha**]<br/>
-.blue[**18114027**]
+.fonth5[**Kalista Umari**]<br/>
+.blue[**18114026**]
 
 
 ]]
@@ -1065,7 +1065,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-note
+haloo!
 ]
 
 
@@ -1084,7 +1084,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-note
+oyi
 ]
 
 
@@ -1097,10 +1097,44 @@ note
 
 
 .figround1[
+![](images/323614449.jpg)
+]
+.fonth5[**Moh Bimo Adha**]<br/>
+.blue[**18114027**]
+
+
+]]
+
+---
+class: split-40 nopadding 
+
+.column_t2[.vmiddle.pushfront.center[
+
+
+
+
+
+
+
+
+.figround1[
 ![](images/326560177.jpg)
 ]
 .fonth5[**Ghazy Mahendra**]<br/>
 .blue[**18114028**]
+
+
+]]
+.column_t1[.vmiddle.pushfront.center[
+
+
+
+
+
+
+.fonth4[
+Get a life?
+]
 
 
 ]]
