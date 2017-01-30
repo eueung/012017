@@ -182,7 +182,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-おはようございます🐼
+jangan pake bhs jepang dong ... script nya blm support unicode
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
