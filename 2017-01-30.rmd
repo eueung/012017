@@ -8,13 +8,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18113016**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+Seberat apapun pekerjaan itu akan terasa ringan jika tidak dikerjakan
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+semangat
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -38,7 +38,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+done
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -56,13 +56,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18113041**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+yihaa
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+pagi teman teman
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -80,13 +80,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114002**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+setuju banget sih
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+they see me rolling they hating
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -104,13 +104,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114004**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+begadang jangan begadang
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+idk
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -128,13 +128,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114006**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+#travel #tech
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+Lets Assume I'm Never Wrong!
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -152,13 +152,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114008**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+pagi
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+Malu Tersesat, Bertanya di Jalan
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -176,13 +176,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114010**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+Show must go on
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+おはようございます🐼
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -200,13 +200,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114012**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+Zizi :3
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+assalamualaikum :)
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -230,7 +230,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+Selalu berusaha
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -248,13 +248,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114016**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+Allons-y!
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+banyak belajar banyak lupa, sedikit belajar sedikit lupa, tidak belajar tidak lupa :(
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -272,13 +272,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114018**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+oke mam!
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+unboxing nasi padang
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -296,13 +296,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114020**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+hello
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+hello world
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -320,13 +320,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114022**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+YNWA
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+Hati ini bukan Dufan yg bisa dimainin
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -344,13 +344,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114024**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+key of success adalah kunci kesuksesan
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+:)
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -362,24 +362,36 @@ $$$ part-3
 ---
 $$$ part-1 %split 40 %color1 t2 %align1 center
 .figround1[
-![](images/323614449.jpg)
+![](images/default.jpg)
 ]
-.fonth5[**Moh Bimo Adha**]<br/>
-.blue[**18114027**]
+.fonth5[**Kalista Umari**]<br/>
+.blue[**18114026**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+haloo!
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-note
+oyi
 ]
 $$$ part-2 %color2 t2 %align2 center
+.figround1[
+![](images/323614449.jpg)
+]
+.fonth5[**Moh Bimo Adha**]<br/>
+.blue[**18114027**]
+$$$ part-3
+---
+$$$ part-1 %split 40 %color1 t2 %align1 center
 .figround1[
 ![](images/326560177.jpg)
 ]
 .fonth5[**Ghazy Mahendra**]<br/>
 .blue[**18114028**]
+$$$ part-2 %color2 t1 %align2 center
+.fonth4[
+Get a life?
+]
 $$$ part-3
