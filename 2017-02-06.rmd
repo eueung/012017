@@ -32,7 +32,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18113029**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+Hwaiting!
 ]
 $$$ part-3
 ---
@@ -182,7 +182,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-jangan pake bhs jepang dong ... script nya blm support unicode
+Hello darkness my old friend
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -194,7 +194,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 40 %color1 t2 %align1 center
 .figround1[
-![](images/default.jpg)
+![](images/187698702.jpg)
 ]
 .fonth5[**Imam Habib Al Fikri**]<br/>
 .blue[**18114012**]
@@ -224,7 +224,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18114014**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-note
+mantappp
 ]
 $$$ part-3
 ---
@@ -354,7 +354,7 @@ $$$ part-1 %split 60 %color1 t1 %align1 center
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
-![](images/default.jpg)
+![](images/311102631.jpg)
 ]
 .fonth5[**Silvya Aulia Hidayatul F**]<br/>
 .blue[**18114025**]
@@ -362,7 +362,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 40 %color1 t2 %align1 center
 .figround1[
-![](images/default.jpg)
+![](images/328382632.jpg)
 ]
 .fonth5[**Kalista Umari**]<br/>
 .blue[**18114026**]
