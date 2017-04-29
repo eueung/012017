@@ -1,5 +1,6 @@
-class: split-{{split}} nopadding
-background-image: url( {{bkgimg}} )
+{% if sname is defined %}name: {{sname}}{% endif %}
+class: split-{{split}} nopadding bkgpos_00
+{% if bkgimg is defined %}background-image: url( {{bkgimg}} ){% endif %}
 
 .column_t2.center[.vmiddle[
 .fgtransparent[
