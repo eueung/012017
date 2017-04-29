@@ -2,6 +2,6 @@
 
 ### Electronics/IoT
 - Sensors/Actuators https://eueung.github.io/012017/inout
-- NodeMCU
-- nRF24L01+
+- NodeMCU https://eueung.github.io/012017/nodemcu
+- nRF24L01+ https://eueung.github.io/012017/nrf24
 
