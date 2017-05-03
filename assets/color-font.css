@@ -56,6 +56,11 @@ h1 .fsize95 {font-size: 95px !important;}
 h1 .fsize85 {font-size: 85px !important;}
 h1 .fsize75 {font-size: 75px !important;}
 
+.nomargin_tb ol, .nomargin_tb ul {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 .done-true {
   text-decoration: line-through;
   color: grey;
