@@ -47,11 +47,11 @@
   position: absolute;
   z-index: 1;   
 }
-.column_bt, .column_bt2 {
+.column_bt {
   position: relative;
   color: white;
 }
-.column_bt:after, .column_bt2:after {
+.column_bt:after {
   content: "";
   background-color: black;
   opacity: 0.7;
@@ -61,9 +61,6 @@
   right: 0;
   position: absolute;
   z-index: 1;   
-}
-.column_bt2:after {
-  opacity: 0.85 !important;
 }
 .column_t1t {
   position: relative;
