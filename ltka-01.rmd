@@ -1,0 +1,505 @@
+$$$ cover-05-gen-fa %split 40 %pretitle Connected Services &amp; Cloud Computing %titleprop .fsize95[.yellow[Introduction &amp; Overview]] %authorprop [Dr.-Ing. Eueung Mulyana](https://github.com/eueung) %linkprop https://eueung.github.io/ET3010 % otherprop ET-3010 | [Attribution-ShareAlike CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-1
+---
+$$$ part-1 %split 50 %color1 t2 %align1 right 
+
+# .red[C]onnected .red[S]ervices
+### &amp;
+# .red[C]loud .red[C]omputing
+#### &nbsp;
+### .red[**CS**] (&amp;) .red[**CC**]
+
+$$$ part-2 % color2 t1 % align2 defaultalign 
+
+# .bluelight[L]ayanan .bluelight[T]ersambung
+### &amp;
+# .bluelight[K]omputasi .bluelight[A]wan
+#### &nbsp;
+### .bluelight[**LT**] (&amp;) .bluelight[**KA**]
+
+$$$ part-3 
+---
+$$$ part-1 %split 50 %color1 t2 %align1 right 
+
+# .red[C]onnected .red[S]ervices
+### &amp;
+# .red[C]loud .red[C]omputing
+#### &nbsp;
+### .red[**CS**] (&amp;) .red[**CC**]
+
+$$$ part-2 % color2 t1 % align2 defaultalign 
+.fonth4[
+- Modern Communication .yellow[**Services**]
+- Technology &amp; .yellow[**Infrastructure**] 
+]
+
+$$$ part-3 
+.shadelightdark.bottom_abs[.boxtitle1.noborder.center[
+# Emerging &amp; State-of-the-Art ...
+]]
+---
+$$$ outline % fsize fonth4 %e1 |CS - What &amp; Why| %e2 |CS - Landscape &amp; Roles| %e3 |CC - What, Why &amp; Roles| %e4 |Remarks &amp; Notes| 
+---
+$$$ cover-05-section-gen-fa %split 40 %pretitle .yellow[Connected Services] %titleprop .fsize85[What &amp; Why] %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-2
+---
+$$$ part-1 %split 60 %color1 t2 %align1 right 
+
+.fonth4[Any .red[**Digital Service**] that brings people together in any .red[**Meaningful**] way - to **engage**, **transact**, **share**, etc. - is a .blue[**Connected Service**].]<br/>(cf. Golding,2011)
+<hr/>
+
+.fonth3[.red[**Services**] + .red[**Connections**]]
+
+.gray[
+This plus: that need, that can not properly be used without, ...
+
+### What does it **technically** mean??
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .yellow[**Definition**]
+- Examples
+- Facts (Micro)
+- Triggers &amp; Enablers
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+
+# Legacy .blue[**Telco**] Services
+.fonth5[
+Voice Services, Text Services, Data Services ]
+
+# Services with .red[Internet-Origin]
+.fonth5[
+Twitter, Facebook, Google Search, ...]
+
+# .red[New] Services
+.fonth5[
+Uber, Airbnb, ...]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Definition**]
+- .yellow[**Examples**]
+- Facts (Micro)
+- Triggers &amp; Enablers
+]
+$$$ part-3 
+---
+class: bkgpos_00 nopadding
+background-image: url(images/pic01-nytimes.jpg)
+
+.shadelightdark.bottom_abs[.boxtitle1.noborder.center[
+# Facts - CS Around Us - User Perspective
+#### Image Credit: nytimes.com 
+]]
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+.fonth4[
+.blue[**Everyday**] Life
+
+To .red[**Ease**] Things, to .red[**Entertain**], to ...
+
+For some, those become **primary** needs ...
+]
+[<i class="fa fa-play fa-5x"></i>](reveal/ltka-01-facts-micro.html)
+
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Definition**]
+- .bluelight[**Examples**]
+- .yellow[**Facts**] (Micro)
+- Triggers &amp; Enablers
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+.figplaint[
+![](images/svg01.png)
+]
+.fonth3[
+Lifestyle<br/>
+**Technology Advances**<br/>
+Economical Feasibility
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Definition**]
+- .bluelight[**Examples**]
+- .bluelight[**Facts**] (Micro)
+- .yellow[**Triggers**] &amp; .yellow[**Enablers**]
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+.figplaint[
+![](images/svg02.png)
+]
+.fonth4[A lot has happened ...]
+$$$ part-2 % color2 t1 % align2 defaultalign 
+.fonth5[
+- Timespan +/- 10 yr 
+
+&nbsp;
+- Evolved from .yellow[**IC**] and (legacy) **Telco**
+- **Regional** vs. .yellow[**Global**]
+- Telco: Fixed- & Mobile-Broadband, Growth via Cust. Base
+
+&nbsp;
+- Others: Media, ...
+- Enter **Change** ... [<i class="fa fa-play fa-1x"></i>](reveal/ltka-01-change.html)
+]
+$$$ part-3 
+
+---
+$$$ cover-05-section-gen-fa %split 40 %pretitle .yellow[Connected Services] %titleprop .fsize85[Landscape &amp; Roles] %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-3
+---
+$$$ part-1 %split 60 %color1 t2 %align1 right 
+.fonth4[
+New .red[Demands], .red[Opportunities], but also **Threats**!]
+
+.blue[
+*Ada gula ada semut*... Demands = $$<br/>
+$$ comes either from **new** or from **existing**, **acquired** Markets<br/>]
+
+.fonth5[
+.gray[Serious **threats** for existing players (incumbents)] <br/>
+Right **strategy** and business **agility** badly needed to survive and win!
+]
+
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .yellow[**Impacts**]
+- Market
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- Model, Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/svg03.png)
+]
+.fonth5[
+Case ID +/- Y2000<br/> Relative to Market Size <br/> 1:8 to 1:10
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .yellow[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- Model, Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/svg04.png)
+]
+.fonth5[
+Y2010+<br/>Size Comparison 1:2 to 1:3 <br/><br/> Now?
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .yellow[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- Model, Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.fonth4[
+[<i class="fa fa-play fa-5x"></i>](reveal/ltka-01-now-future.html)
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .yellow[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- Model, Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.fonth4[
+[<i class="fa fa-play fa-5x"></i>](reveal/ltka-01-remarks.html)
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .yellow[Remarks]
+- .black[Numbers &amp; Stats]
+- Model, Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+
+.fonth4[
+[<i class="fa fa-play fa-5x"></i>](reveal/ltka-01-numbers-stats.html)
+]
+
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .yellow[Numbers &amp; Stats]
+- Model, Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/svg06.png)
+]
+.fonth3[**Model**]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- .yellow[**Model**], Relationship &amp; Facts to Consider
+]
+$$$ part-3 
+---
+
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/svg06.png)
+]
+.fonth3[**Model**]
+$$$ part-2 % color2 t1 % align2 defaultalign 
+.fonth5[
+- **Induction**: Phone, SMS, Twitter, Facebook, Search, ...
+
+- CS (**System**): .bluelight[UI], .bluelight[Data] (Local+Remote), .bluelight[Process] (Local+Remote)
+- CS Data Source: Device **Sensors**, Communication **Channels**
+]
+<hr/>
+- CS **Frontend**: UI, Local Data/Storage, Local Process
+- Box/**Backend**: Interface, Storage, Process
+
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/svg05.png)
+]
+.fonth5[**Simplified Relationship**<br/>CS, CC, Some Involving Parties]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- .bluelight[**Model**], .yellow[**Relationship**] &amp; Facts to Consider
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/divais-cisco2011.jpg)
+]
+.fonth5[**Number of Devices**]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- .bluelight[**Model**], .bluelight[**Relationship**] &amp; .yellow[**Facts to Consider**]
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/divais-cisco2011.jpg)
+]
+.fonth5[**Number of Devices**]
+$$$ part-2 % color2 t1 % align2 defaultalign 
+.fonth5[
+Mobile Devices (.yellow[$$$$$])<br/>
+CS/Apps Usage &amp; Purchases (.yellow[$$$$])
+
+&nbsp;
+
+Needs for Infrastructure: Computing/**Backend** (.bluelight[increased]) (.yellow[$$?])
+
+Data **Volume** (.bluelight[steadily increased]) (.yellow[$])
+
+Needs for Infrastructure: **Connectivity** e.g. Coverage, BW (.bluelight[steadily increased]) (.yellow[$])
+
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figstyle1[
+![](images/trafik-cisco2013.jpg)
+]
+.fonth5[Cisco VNI Global **Mobile Data Traffic** Forecast, 2012-2017]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Connected Services]
+.fonth5[
+- .bluelight[**Impacts**]
+- .bluelight[**Market**]
+- .black[\#nowhappening &amp; the Future]
+- .black[Remarks]
+- .black[Numbers &amp; Stats]
+- .bluelight[**Model**], .bluelight[**Relationship**] &amp; .yellow[**Facts to Consider**]
+]
+$$$ part-3 
+
+---
+$$$ cover-05-section-gen-fa %split 40 %pretitle .yellow[Cloud Computing] - Infrastructure %titleprop .fsize75[What,  Why &amp; Roles] %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-4
+---
+$$$ minion1-left % align center % title #Errr... %text1 What is actually this **Cloud**?
+---
+$$$ part-1 %split 60 %color1 t1 %align1 right 
+
+.fonth5[
+The interesting thing about **Cloud Computing** is that we've redefined Cloud Computing to include everything that **we already do**.... I don't understand what we would do differently in the light of Cloud Computing other than change the wording of some of our ads.](.bluelight[Larry Ellison]/Oracle, 2008)
+
+.fonth5[
+A lot of people are jumping on the **cloud** bandwagon, but I have .uline[**not**] heard two people say the same thing about it. There are multiple definitions out there of "the cloud".](.bluelight[Andy Isherwood]/HP, ZDnet News, 2008)
+
+$$$ part-2 % color2 t2 % align2 defaultalign %title2 # .fonth5[Cloud Computing]
+.fonth5[
+]
+$$$ part-3 
+---
+$$$ minion-right %align center %img m2-910.jpg %title #Ockay... %text1 How about Bananas? **Cloud** = Bananas?
+---
+$$$ jackie-left %align center %title #Whhaat??
+---
+$$$ part-1 %split 60 %color1 t2 %align1 right 
+
+.fonth4[
+.fonth5[**Cloud Computing**] is a model for enabling convenient, .blue[**on-demand**] network access to a .blue[**shared pool**] of configurable computing .red[**resources**] (e.g., .uline[networks], .uline[servers], .uline[storage], applications, and services) that can be **rapidly** .blue[**provisioned**] and .blue[**released**] with **minimal** management .blue[**effort**] or service provider interaction. (NIST)]
+
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Cloud Computing]
+.fonth5[
+- .yellow[**Definition**]
+- Model &amp; Relationship
+- Facts (Macro)
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 right 
+
+.fonth2[**Flexible** Infrastructure]<br/>
+.fonth4[Abstracted &amp; often **Virtualized**]<br/>
+.fonth5[Now with many Variants and Technology]<br/><br/>
+.fonth5[**Cloud** (without "Computing") is sometimes used interchangebly with **Networks** or the Internet]<br/>
+
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Cloud Computing]
+.fonth5[
+- .yellow[**Definition**]
+- Model &amp; Relationship
+- Facts (Macro)
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center
+.figplaint[
+![](images/svg07.png)
+]
+.fonth4[Connected Services &amp; **Cloud**]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Cloud Computing]
+.fonth5[
+- .bluelight[**Definition**]
+- .yellow[**Model**] &amp; .yellow[**Relationship**]
+- Facts (Macro)
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+.figplaint[
+![](images/svg08.png)
+]
+.fonth5[System-Boxes inside **Cloud**]<br/>Nested **Clouds**
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Cloud Computing]
+.fonth5[
+- .bluelight[**Definition**]
+- .yellow[**Model**] &amp; .yellow[**Relationship**]
+- Facts (Macro)
+]
+$$$ part-3 
+
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+.fonth4[
+[<i class="fa fa-play fa-5x"></i>](reveal/ltka-01-facts-macro.html)
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Cloud Computing]
+.fonth5[
+- .bluelight[**Definition**]
+- .bluelight[**Model**] &amp; .bluelight[**Relationship**]
+- .yellow[**Facts**] (Macro)
+]
+$$$ part-3 
+
+---
+$$$ cover-05-section-gen-fa %split 40 %titleprop .fsize85[Remarks &amp; Notes] %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-5
+---
+$$$ part-1 %split 60 %color1 t2 %align1 right 
+.fonth3[
+CS are in .red[**everyday life**] of more-and-more people. CS becomes an attracting .red[**business trend**].
+] <br/>
+.fonth4[
+CS involve many new .red[**emerging technologies**] including **Cloud**.
+CS are rapidly .red[**growing**] in terms of **services** and **applications**.
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Notes]
+.fonth5[
+]
+$$$ part-3 
+---
+$$$ part-1 %split 60 %color1 t2 %align1 center 
+.fonth4[
+[<i class="fa fa-play fa-5x"></i>](reveal/ltka-01-closing.html)
+]
+$$$ part-2 % color2 t1 % align2 defaultalign %title2 # .fonth5[Notes]
+.fonth5[
+Now you live in an .yellow[**agile**] world, may cause **fatigue**.. Tapi don't worry ya, .uline[pasti bisa]! **GT** <i class="fa fa-arrows-h" aria-hidden="true"></i> **ITB**
+]
+$$$ part-3 
+---
+$$$ cover-05-section-gen-fa %split 40 %titleprop .fsize95[Refs] %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-6
+---
+# References/Books
+
+.fonth5[
+1. Paul Golding, .blue[Connected Services: A Guide to the Internet Technologies Shaping the Future of Mobile Services and Operators], John Wiley & Sons Ltd., 2011, ISBN 978-0-470-97455-1
+1. Dan C. Marinescu, .blue[Cloud Computing Theory and Practice], Morgan Kaufmann, Elsevier Inc., 2013, ISBN: 978-0-12404-627-6
+]
+---
+$$$ cover-05-gen-fa %split 40 %titleprop .fsize175.yellow[END] %authorprop [Dr.-Ing. Eueung Mulyana](https://github.com/eueung) %linkprop https://eueung.github.io/ET3010 % otherprop ET-3010 | [Attribution-ShareAlike CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) %logo .fonth5[.fa-2x.fa-stack[<i class="fa fa-mixcloud fa-stack-2x fa-rotate-270"></i><i class="fa fa-code-fork fa-stack-2x fa-rotate-90"></i>]] %sname bkgtri-7
+
+
+
+
+
+
+
