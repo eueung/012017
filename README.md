@@ -16,3 +16,6 @@
 - Models & Architecture https://eueung.github.io/012017/ltka-02
 - Connected Services - Introduction https://eueung.github.io/012017/ltka-01
 
+### Android/PPTB
+- Android Basics https://eueung.github.io/012017/android1
+
