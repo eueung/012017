@@ -7,6 +7,9 @@
 - NodeMCU (Introduction + Blynk + Firebase) https://eueung.github.io/012017/nodemcu
 - Local Connectivity Using nRF24L01+ https://eueung.github.io/012017/nrf24
 
+### Android/PPTB
+- Android Basics https://eueung.github.io/012017/android1
+
 ### LTKA
 - Cloud Computing - Overview and Examples https://eueung.github.io/012017/ltka-06
 - Connected Things, IoT and 5G https://eueung.github.io/012017/ltka-05
@@ -16,6 +19,4 @@
 - Models & Architecture https://eueung.github.io/012017/ltka-02
 - Connected Services - Introduction https://eueung.github.io/012017/ltka-01
 
-### Android/PPTB
-- Android Basics https://eueung.github.io/012017/android1
 
