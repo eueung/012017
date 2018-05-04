@@ -1,4 +1,4 @@
-class: split-{{split}} nopadding bkgpos_00
+class: split-{{split}} nopadding 
 background-image: url( {{bkgimg}} )
 
 .column_t2[.vmiddle.center[
