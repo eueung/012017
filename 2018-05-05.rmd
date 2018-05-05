@@ -50,7 +50,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 40 %color1 t2 %align1 center
 .figround1[
-![](images/default.jpg)
+![](images/393577627.jpg)
 ]
 .fonth5[**Muhammad Hilmi**]<br/>
 .blue[**18115006**]
