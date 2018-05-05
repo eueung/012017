@@ -166,7 +166,7 @@ class: split-40 nopadding
 
 
 .figround1[
-![](images/default.jpg)
+![](images/393577627.jpg)
 ]
 .fonth5[**Muhammad Hilmi**]<br/>
 .blue[**18115006**]
