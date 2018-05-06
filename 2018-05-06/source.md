@@ -64,7 +64,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-
+Ltka udah seru kok tanpa quiz :D
 ]
 
 
@@ -132,7 +132,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-jika ada hands on pd saat perkuliahan akan sangat menarik
+Jika ada hands on pd saat perkuliahan akan sangat menarik
 ]
 
 
@@ -200,7 +200,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-
+Kelasnya seru tp mungkin lebih banyak handson biar lebih ngerti soalnya kl dengerin doang suka bingung/lupa
 ]
 
 
@@ -249,7 +249,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-
+Udah bagus pak ga ad ujian LTKA.. Tubes lebih baik drpd ujian
 ]
 
 
@@ -268,7 +268,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-perlu adanya hands on di kelas
+Perlu adanya hands on di kelas
 ]
 
 
@@ -317,7 +317,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-
+Materi perkuliahan sudah bagus mengikuti perkembangan teknologi
 ]
 
 
@@ -336,7 +336,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-mata kuliah LTKA merupakan mata kuliah paling up to date yang saya dapatkan selama mengenyam bangku kuliah. LTKA membuka pkiran saya bahwa cloud computing bukan hanya tentang cloud storage macem gdrive, dropbox, dkk. LTKA juga membuat tekad saya makin kuat untuk mendalami cloud computing. Saran saya kedepannya tambah pr lagi ehehe
+#2019TambahGelar
 ]
 
 
@@ -404,7 +404,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-
+Keren nama matkul nya
 ]
 
 
@@ -472,7 +472,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-time is not money
+Time is not money
 ]
 
 
@@ -521,7 +521,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-makan ena
+Makan ena
 ]
 
 
@@ -589,7 +589,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-asik bentar lagi TA!
+Asik bentar lagi TA!
 ]
 
 
@@ -812,7 +812,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-
+Ora et Labora
 ]
 
 
@@ -880,7 +880,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-over all bermanfaat banget, but perlu ada doorprize utk kelompok yang tubesnya bagus, perlu ada kuis sekali2 pak dan banyakin hands-on pada saat dikelas seperti mata kuliah Computer Network. Hehe
+Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia
 ]
 
 
@@ -929,7 +929,7 @@ class: split-40 nopadding
 
 
 .fonth4[
-
+Mungkin akan lebih menarik jika ada hadiah untuk tugas akhir yang terbaik atau presentator terbaik hehe
 ]
 
 
@@ -1016,7 +1016,7 @@ class: split-60 nopadding
 
 
 .fonth4[
-mungkin sebaiknya ada semacam hands-on(?) hehe
+Mungkin sebaiknya ada semacam hands-on(?) hehe
 ]
 
 
