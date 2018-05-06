@@ -14,7 +14,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Ltka udah seru kok tanpa quiz :D
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -38,7 +38,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-jika ada hands on pd saat perkuliahan akan sangat menarik
+Jika ada hands on pd saat perkuliahan akan sangat menarik
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -62,7 +62,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Kelasnya seru tp mungkin lebih banyak handson biar lebih ngerti soalnya kl dengerin doang suka bingung/lupa
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -80,13 +80,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115009**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Udah bagus pak ga ad ujian LTKA.. Tubes lebih baik drpd ujian
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-perlu adanya hands on di kelas
+Perlu adanya hands on di kelas
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -104,13 +104,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115013**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Materi perkuliahan sudah bagus mengikuti perkembangan teknologi
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-mata kuliah LTKA merupakan mata kuliah paling up to date yang saya dapatkan selama mengenyam bangku kuliah. LTKA membuka pkiran saya bahwa cloud computing bukan hanya tentang cloud storage macem gdrive, dropbox, dkk. LTKA juga membuat tekad saya makin kuat untuk mendalami cloud computing. Saran saya kedepannya tambah pr lagi ehehe
+#2019TambahGelar
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -134,7 +134,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Keren nama matkul nya
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -158,7 +158,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-time is not money
+Time is not money
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -176,7 +176,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115025**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-makan ena
+Makan ena
 ]
 $$$ part-3
 ---
@@ -200,7 +200,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115027**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-asik bentar lagi TA!
+Asik bentar lagi TA!
 ]
 $$$ part-3
 ---
@@ -278,7 +278,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Ora et Labora
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -302,7 +302,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-over all bermanfaat banget, but perlu ada doorprize utk kelompok yang tubesnya bagus, perlu ada kuis sekali2 pak dan banyakin hands-on pada saat dikelas seperti mata kuliah Computer Network. Hehe
+Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -320,7 +320,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115037**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Mungkin akan lebih menarik jika ada hadiah untuk tugas akhir yang terbaik atau presentator terbaik hehe
 ]
 $$$ part-3
 ---
@@ -350,7 +350,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-mungkin sebaiknya ada semacam hands-on(?) hehe
+Mungkin sebaiknya ada semacam hands-on(?) hehe
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
