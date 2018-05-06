@@ -8,7 +8,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115001**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Creating a better world through love and technology
 ]
 $$$ part-3
 ---
@@ -32,7 +32,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115004**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Test
 ]
 $$$ part-3
 ---
@@ -56,7 +56,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115006**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Lebih seru lagi kalo ada hands on :)))
 ]
 $$$ part-3
 ---
@@ -110,7 +110,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-#2019TambahGelar
+# 2019TambahGelar
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -128,13 +128,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115019**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+HariIniPastiBisa Oke?
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Keren nama matkul nya
+Satu-satu Ku Sayang Ibu
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -152,7 +152,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115022**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Deep river run quite
 ]
 $$$ part-3
 ---
@@ -182,7 +182,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+(_)
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -206,7 +206,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Ber alles
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -224,13 +224,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115029**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Mantap pak kelasnya seru, akan lebih baik lagi jika kelasnya diisi hands on maupun diskusi terkait isu yg lagi trending
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Perlu ada kuis dan ujian, :D
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -248,13 +248,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115031**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+A friend to all is a friend to none
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Hai sahabatr
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -272,7 +272,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115033**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Bengkel Radio Raya Raya Karya!!!
 ]
 $$$ part-3
 ---
@@ -326,7 +326,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Akan lebih baik kalau ada hands-on Pak..
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -344,7 +344,7 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115039**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Hiduplah menginspirasi
 ]
 $$$ part-3
 ---
@@ -368,13 +368,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115042**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+Without us communication is just a theory
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Stop trying
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
@@ -392,13 +392,13 @@ $$$ part-1 %split 40 %color1 t2 %align1 center
 .blue[**18115044**]
 $$$ part-2 %color2 t1 %align2 center
 .fonth4[
-
+May you know the meaning of the word happiness
 ]
 $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-
+Seseorang yang ingin memendarkan CAHAYA haruslah mampu menanggung API
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
