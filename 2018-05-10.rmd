@@ -182,11 +182,11 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-(_)
+Assumption will narrow your mind
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
-![](images/default.jpg)
+![](images/389211925.jpg)
 ]
 .fonth5[**Muthahhari Aulia Padmanagara**]<br/>
 .blue[**18115026**]
@@ -206,7 +206,7 @@ $$$ part-3
 ---
 $$$ part-1 %split 60 %color1 t1 %align1 center
 .fonth4[
-Ber alles
+Uber alles
 ]
 $$$ part-2 %color2 t2 %align2 center
 .figround1[
